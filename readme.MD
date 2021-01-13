@@ -10,7 +10,7 @@ Steps involved:
 * *Front-end development for user to give inputs to the model(form-based) and obtain predictions*
 * *MongoDB connection with Django server*
 * *Option to user to update the data in database*
-* *Deploy yhe model for serving it in Django*
+* *Deploy the model for serving it in Django*
 
 ### Run Migrations
 
