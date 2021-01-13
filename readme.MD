@@ -25,3 +25,13 @@ Steps involved:
 
 ###  Serving static files 
         python manage.py collectstatic
+
+### Homepage
+
+![User-defined inputs](images/mpg1.png)
+
+![Prediction by the model from back-end to UI](images/mpg2.png)
+
+### viewDatabase 
+
+![View and/or Update the no. of records in Db](images/mpg3.png)
