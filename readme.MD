@@ -1,7 +1,7 @@
 # mpg
 ## Mileage per gallon performances of various cars
 
-The ultimate aim is to create a web application which can predict the mileage of the car based on the user inputs. 
+The ultimate aim is to create a web application which can predict the mileage of the car based on user inputs. 
 
 Steps involved:
 
