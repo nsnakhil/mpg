@@ -6,7 +6,7 @@ import pandas as pd
 
 import joblib
 
-reloadModel=joblib.load(r'C:/Users/user/Desktop/mpg/mpg_notebook/RFModelforMPG.pkl')
+reloadModel=joblib.load(r'../RFModelforMPG.pkl')
 
 from pymongo import MongoClient
 # client = MongoClient()
